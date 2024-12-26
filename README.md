@@ -121,7 +121,7 @@ The project successfully demonstrated a **highly available and scalable applicat
 ![ALB Listener](./Images/target-group.png)
 
 ### Webpage from one of the web-server 
-![Webpage](./Images/webpage.png)
+![Webpage](./Images/Webpage.png)
 
 ---
 
